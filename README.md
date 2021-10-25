@@ -1,2 +1,2 @@
-# FluffySeals.github.io
+# FluffySeals
 This is my website
