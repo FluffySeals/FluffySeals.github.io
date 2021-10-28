@@ -6,7 +6,7 @@ font-family: calibri;
 h1{
   height: 100vh;
   width: 100%;
-  padding: 0 8%;
+  padding: 0;
   background: #434343;
   position: relative;
 }
