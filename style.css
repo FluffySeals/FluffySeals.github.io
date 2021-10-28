@@ -1,11 +1,9 @@
-*{
-  margin: 0;
-passing: 0;
+body {
+  background-color: grey;
 font-family: calibri;
-box-sixing: border-box;
 }
 
-.header{
+h1{
   height: 100vh;
   width: 100%;
   padding: 0 8%;
