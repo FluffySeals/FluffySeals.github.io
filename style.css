@@ -1,6 +1,8 @@
 body {
   background-color: #434343;
-font-family: calibri;
+font-family: calibri
+  color: white
+  font-size: 30px;
 }
 
 .header{
